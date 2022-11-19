@@ -16,7 +16,7 @@ running = True
 background_img = pygame.image.load('space_bg.jpg')
 # Player
 player_icon = pygame.image.load('spaceship(1).png')
-playerX = 360
+playerX = 300
 playerY = 630
 playerX_co = 0
 playerY_co = 0
